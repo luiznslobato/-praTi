@@ -9,7 +9,7 @@
    ```
    git clone https://github.com/luiznslobato/maisPraTi.git
    ```
-3. Navegue até a pasta raiz onde estão localizados os arquivos ".js":
+3. Navegue até a pasta "src" onde estão localizados os arquivos ".js":
    ```
    cd maisPraTi
    cd modulo1
