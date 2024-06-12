@@ -1,15 +1,13 @@
 ## Lista de Exercícios 01
 
-#### Como executar os códigos:
+### Como executar os códigos:
 
 1. Clone o repositório para o seu computador;
 2. Navegue até a pasta raiz onde esão localizados os arquivos ".js";
 3. Abra o terminal e use o comando `node nomedoarquivo.js` para excutar os códigos.
 
 
-<br>
-
-**Exercícios**: Contemplam as operações fundamentais, estruturas de controle condicional e de repetição:
+### Exercícios:
 
 **01**. Escreva um algoritmo para ler uma temperatura em graus Celsius, calcular e escrever o valor correspondente em graus Fahrenheit.
 
