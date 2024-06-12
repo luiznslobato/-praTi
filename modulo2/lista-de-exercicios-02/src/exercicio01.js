@@ -10,7 +10,6 @@ function diasDeVidaPerdidos() {
     let totalDeCigarros = cigarrosPorDia * 365 * anosFumando
     let perdaDeVida = parseInt((tempoPerdidoPorCigarro * totalDeCigarros) / diaEmMinutos);
 
-    console.log("Voce já perdeu cerca de", perdaDeVida, "dias de vida.");
+    console.log(`Você já perdeu cerca de ${perdaDeVida} dias de vida!`);
 }
-
 diasDeVidaPerdidos();
