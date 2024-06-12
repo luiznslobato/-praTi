@@ -3,7 +3,7 @@
 ### Como executar os códigos:
 
 1. Clone o repositório para o seu computador;
-2. Navegue até a pasta raiz onde esão localizados os arquivos ".js";
+2. Navegue até a pasta raiz onde estão localizados os arquivos ".js";
 3. Abra o terminal e use o comando `node nomedoarquivo.js` para excutar os códigos.
 
 ### Exercicios:
