@@ -15,5 +15,4 @@ function verificarVelocidade() {
         console.log('A velocidade atual do carro está dentro do limite permitido de 80Km/h, permaneça assim!');
     }
 }
-
 verificarVelocidade(limiteDeVelocidade);
