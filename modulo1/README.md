@@ -13,3 +13,4 @@
 - Construindo e Manipulando Objetos;
 - Inovação e Educação com Alsones Balestrin (palestra).
 
+Tarefa 1: [Lista de exercícios](https://github.com/luiznslobato/maisPraTi/tree/main/modulo1/lista-de-exercicios-01) - Praticando Lógica de Programação com JS 
