@@ -2,9 +2,26 @@
 
 ### Como executar os códigos:
 
-1. Clone o repositório para o seu computador;
-2. Navegue até a pasta raiz onde estão localizados os arquivos ".js";
-3. Abra o terminal e use o comando `node nomedoarquivo.js` para excutar os códigos.
+1. Instale o [NodeJS](https://nodejs.org/en/download/package-manager) e as seguintes dependências:
+   ```
+   npm install prompt-sync
+   ```
+
+2. Clone o repositório para o seu computador:
+   ```
+   git clone https://github.com/luiznslobato/maisPraTi.git
+   ```
+3. Navegue até a pasta raiz onde estão localizados os arquivos ".js":
+   ```
+   cd maisPraTi
+   cd modulo1
+   cd lista-de-exercicios-01
+   cd src
+   ```
+4. Execute os códigos de acordo com os nomes dos arquivos, esses são nomeados como exercicio1,...,exercicio16.
+   ```
+   node exercicio1.js
+   ```
 
 
 ### Exercícios:
