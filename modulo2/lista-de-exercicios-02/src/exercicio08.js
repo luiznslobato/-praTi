@@ -15,7 +15,7 @@ function vidaSaudavel() {
         pontos = horas * 10;
     }
     let dinheiro = pontos * 0.05;
-    return `Você conseguiu ${pontos} pontos e ganhou R$${dinheiro.toFixed(2)}`
+    console.log(`Você conseguiu ${pontos} pontos e ganhou R$ ${dinheiro.toFixed(2)}`)
 }
 
-console.log(vidaSaudavel());
+vidaSaudavel();
