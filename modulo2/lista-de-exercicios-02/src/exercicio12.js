@@ -1,6 +1,7 @@
 let prompt = require("prompt-sync")();
 
 let numeros = [];
+console.log("Descubra os 10 primeiros números da Sequência de Fibonacci")
 let numeroUm = parseInt(prompt("Defina o primeiro número: "));
 let numeroDois = parseInt(prompt("Defina o segundo número: "));
 numeros.push(numeroUm); numeros.push(numeroDois);
