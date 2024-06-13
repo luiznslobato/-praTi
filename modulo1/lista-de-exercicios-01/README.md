@@ -18,7 +18,7 @@
    cd lista-de-exercicios-01
    cd src
    ```
-4. Execute os códigos de acordo com os nomes dos arquivos, esses são nomeados como exercicio1,...,exercicio16.
+4. Execute os códigos de acordo com os nomes dos arquivos: exercicio1, exercicio2, ..., exercicio16.
    ```
    node exercicio1.js
    ```
