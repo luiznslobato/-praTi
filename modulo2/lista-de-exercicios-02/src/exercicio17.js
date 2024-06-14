@@ -6,7 +6,7 @@ function menorIdade() {
     let nomes = [];
     let idades = [];
 
-    console.log("---- Informe o nome e a idade de nove pessoas -----")
+    console.log("---- Informe o nome e a idade de nove pessoas -----");
 
     for (let i = 0; i < 9; i++) {
         let nome = (prompt("Nome: "));
@@ -15,7 +15,7 @@ function menorIdade() {
         idades.push(idade);
     }
 
-    console.log("----------------- Menores de idade -----------------")
+    console.log("----------------- Menores de idade -----------------");
 
     for (let i = 0; i < 9; i++) {
         if (idades[i] < 18) {
