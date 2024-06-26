@@ -1,4 +1,3 @@
-
 ## Módulo 2 - Introdução ao Controle de Versão com Git e Github
 
 **Nesse módulo aprendemos e praticamos sobre:**
