@@ -17,4 +17,4 @@
 - Projeto Prático III - Aplicação Front-end Completa 
 - Carreiras de Ti com Andréia Teixeira (palestra);
 - Empreendedorismo na TI Sucessos e Insucessos com Gabriel Goltz (palestra);
-- Tarefa 3 → [Desenvolvimento de Landing Page](https://github.com/luiznslobato/luiznslobato.github.io).
+- Tarefa 3 → [Desenvolvimento de Landing Page](https://github.com/luiznslobato/portfolio).
