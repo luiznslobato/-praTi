@@ -6,6 +6,5 @@
 - Comandos Essenciais do Git e Trabalho Colaborativo;
 - Aprofundamento com Git Intermediário;
 - O paradoxo da privacidade com Reges Bronzatti (palestra);
-- Carreiras em TI com Andrea Teixeira (palestra).
-
-Tarefa 2: Lista de exercícios - Praticando Lógica de Programação com JS 
+- Carreiras em TI com Andrea Teixeira (palestra);
+- Tarefa 2: Lista de exercícios - [Praticando Lógica de Programação com JS](https://github.com/luiznslobato/maisPraTi/tree/main/modulo2/lista-de-exercicios-02).
