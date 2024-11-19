@@ -1,0 +1,40 @@
+# Fluxograma da API de Usuários com Autenticação JWT
+
+## Fluxo Lógico e Entidades
+
+1. **Usuário Realiza Login**
+   - O usuário envia suas credenciais (email/senha) para o servidor.
+
+   ↓
+
+2. **Validação de Credenciais**
+   - O servidor verifica se o email e a senha estão corretos no banco de dados.
+
+   ↓
+
+3. **Geração do JWT**
+   - Se as credenciais forem válidas, o servidor gera um token JWT com as informações do usuário.
+
+   ↓
+
+4. **Retorno do Token**
+   - O token JWT é enviado de volta para o cliente para ser utilizado em futuras requisições.
+
+   ↓
+
+5. **Usuário Realiza Requisição Protegida**
+   - O usuário faz uma requisição, incluindo o JWT no cabeçalho `Authorization`.
+
+   ↓
+
+6. **Validação do JWT**
+   - O servidor valida o JWT e verifica sua autenticidade (expiração e assinatura).
+
+   ↓
+
+7. **Acesso Liberado**
+   - Se o token for válido, o servidor permite o acesso aos dados protegidos.
+
+---
+
+**Observação**: Esse fluxo descreve como o JWT é utilizado para autenticação e autorização na API de usuários.
